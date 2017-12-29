@@ -1,34 +1,33 @@
 name: Francois Jonard
 
-label: UI Designer
+label: Associate Professor
 
 picture: /img/profile-picture.png
 
-email: f.jonard[at]fz-juelich.de
+email: f.jonard@fz-juelich.de
 
-phone: 
+phone: +49 (0)2461 61 9518
 
-department: Android UX
+department: Institute of Bio- and Geosciences - Agrosphere
 
-institution: Google
+institution: Forschungszentrum Jülich GmbH
 
 mailing_address: >
-  1600 Amphitheatre Parkway
-  Mountain View, CA 94043
+  52425 Jülich, Germany
 
 profiles:
   - 
     network: Google Scholar
     username:
-    url: http://scholar.google.com/citations?user=JS7sVyQAAAAJ&hl=en
+    url: https://scholar.google.be/citations?user=Gvk_2sMAAAAJ&hl=en
   -
     network: LinkedIn
     username:
-    url: https://www.linkedin.com/pub/ian-li/1/681/8b0
+    url: https://www.linkedin.com/in/fran%C3%A7ois-jonard-078409b/
   -
     network: Twitter
     username: ianli
-    url: https://twitter.com/ianli/
+    url: ...
 
 intro:
   title: Hello!
