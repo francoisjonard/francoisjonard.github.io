@@ -35,9 +35,9 @@ profiles:
     username:
     url: https://orcid.org/0000-0002-8562-2073  
   - 
-    network: ORCID
+    network: Github
     username:
-    url: https://orcid.org/0000-0002-8562-2073 
+    url: https://github.com/francoisjonard/ 
 
 
 intro:
